@@ -1,0 +1,18 @@
+C:\Users\ucenik\Desktop\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+C:\Users\ucenik\Desktop\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+C:\Users\ucenik\Desktop\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+C:\Users\ucenik\Desktop\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csprojResolveAssemblyReference.cache
+C:\Users\ucenik\Desktop\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Background.resources
+C:\Users\ucenik\Desktop\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Properties.Resources.resources
+C:\Users\ucenik\Desktop\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.GenerateResource.Cache
+C:\Users\ucenik\Desktop\Space Invaders\Space Invaders\obj\Debug\Space Invaders.exe
+C:\Users\ucenik\Desktop\Space Invaders\Space Invaders\obj\Debug\Space Invaders.pdb
+C:\Users\leonb\Desktop\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+C:\Users\leonb\Desktop\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.exe
+C:\Users\leonb\Desktop\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.pdb
+C:\Users\leonb\Desktop\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+C:\Users\leonb\Desktop\Space Invaders\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+C:\Users\leonb\Desktop\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csprojResolveAssemblyReference.cache
+C:\Users\leonb\Desktop\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Background.resources
+C:\Users\leonb\Desktop\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Properties.Resources.resources
+C:\Users\leonb\Desktop\Space Invaders\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.GenerateResource.Cache
